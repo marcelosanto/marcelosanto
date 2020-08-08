@@ -5,6 +5,7 @@
  
  ![Marcelo Santo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosanto&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcesanto&repo=gen-qrcode)](https://github.com/marcelosanto/gen-qrcode)
  
 <!--
 **marcelosanto/marcelosanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
