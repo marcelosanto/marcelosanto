@@ -1,7 +1,10 @@
 ### Hi there 👋
  Meu nome é Marcelo Santos e estou estudando Javascript e Typescript
- 
+
  ![Welcome](https://github.com/marcelosanto/marcelosanto/blob/master/github-profile-header.png?raw=true)
+ 
+ ### Linkedin
+ ![ReadMe Card](https://gen-qrcode.vercel.app/api?url=https:/www.linkedin.com/in/marcelo-rocha-90801b18)
  
  ![Marcelo Santo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosanto&show_icons=true&theme=radical)
 
