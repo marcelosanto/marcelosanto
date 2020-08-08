@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ Meu nome é Marcelo Santos e estou estudando Javascript e Typescript
 <!--
 **marcelosanto/marcelosanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
