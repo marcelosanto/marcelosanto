@@ -1,7 +1,7 @@
 ### Hi there 👋
  Meu nome é Marcelo Santos e estou estudando Javascript e Typescript
  
- ![Welcome](/github-profile-header.png?raw=true)
+ ![Welcome](https://github.com/marcelosanto/marcelosanto/blob/master/github-profile-header.png?raw=true)
  
  ![Marcelo Santo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosanto&show_icons=true&theme=radical)
 
