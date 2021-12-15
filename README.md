@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript, Java and Kotlin.**
+- 🌱 I’m currently learning **Javascript and Kotlin.**
 
 - 💬 Ask me about **Reactjs, React Native and Android.**
 
