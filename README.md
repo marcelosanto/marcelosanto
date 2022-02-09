@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript and Kotlin.**
 
-- 💬 Ask me about **Reactjs, React Native and Android.**
+- 💬 Ask me about **React Native and Android.**
 
 - 📫 How to reach me **rocha.mer21@gmail.com**
 
