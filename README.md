@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
-<h3 align="center">A passionate mobile developer from Brasil</h3>
+<h1 align="center">Oie 👋, Eu sou o Marcelo Santos</h1>
+<h3 align="center">Android mobile developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Kotlin and Android jetpack compose.**
+- 🌱 Atualmente estudando **Kotlin e Android jetpack compose.**
 
-- 💬 Ask me about **React Native and Android.**
+- 💬 Focando em: **Android Mobile.**
 
-- 📫 How to reach me **rocha.mer21@gmail.com**
+- 📫 E-mail: **rocha.mer21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
