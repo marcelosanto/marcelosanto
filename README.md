@@ -12,13 +12,13 @@
 
 <h2 align="center">Tecnologias</h2>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="70" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" width="60" />
+<img src="https://img.shields.io/badge/androidstudio-43853D?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-9370DB?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-43853D?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-D2691E?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/rust-FF4500?style=for-the-badge&logo=rust&logoColor=white"/>
 
     
 </div>
