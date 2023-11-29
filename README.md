@@ -4,9 +4,9 @@
     <p>Olá, meu nome é Marcelo e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em Kotlin, mas também tenho experiência em React Native, Android e outras tecnologias.</p>
     <p>Este perfil no GitHub é onde eu compartilho meus projetos e códigos desenvolvidos durante meus estudos e trabalhos. Sinta-se à vontade para explorar e deixar um feedback ou sugestão.</p>
     
-- 🌱 Atualmente estudando **Kotlin e Java.**
+- 🌱 Atualmente estudando **Kotlin, Rust e Java.**
 
-- 💬 Focando em: **Android Mobile | SpringBoot.**
+- 💬 Focando em: **Android Mobile | SpringBoot | AXUM.**
 
 - 📫 E-mail: **rocha.mer21@gmail.com**
 
